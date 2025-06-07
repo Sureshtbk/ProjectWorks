@@ -39,7 +39,6 @@ To scrape IMDb 2024 movie data and build an interactive Streamlit dashboard that
 ├── Home.py                # Streamlit app UI and visualizations
 ├── main.py                # Web scraping, CSV management, DB storage
 ├── *.csv                  # Genre-wise scraped data
-├── IMDb 2024 Data Scraping.docx  # Project documentation
 ├── README.md              # This file
 ```
 
