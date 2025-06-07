@@ -64,7 +64,7 @@ def db_connection(dataframes):
         db_con = db.connect(
             host = "localhost",
             user = 'root',
-            password = "Sakthi809010#",
+            password = "Test#123#",
             database = "imdb"
         )
         # Create cursor
